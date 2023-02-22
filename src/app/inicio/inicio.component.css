@@ -1,0 +1,51 @@
+main {
+    min-height: 500px;
+}
+
+#section_banner {
+    min-height: 400px;
+}
+
+#section_banner img {
+    height: 600px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+mat-grid-list {
+    margin: 10px 0;
+}
+
+mat-grid-tile {
+    padding: 2px;
+    border-radius: 30px;
+}
+
+mat-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+mat-card-actions {
+    display: flex;
+    justify-content: space-around;
+}
+
+mat-card-actions p {
+    margin: 0;
+    color: tomato;
+    font-size: 30px;
+}
+
+mat-card {
+    max-width: 350px;
+}
+
+mat-card img {
+    height: 350px;
+}

@@ -1,0 +1,25 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+}
+
+#section_login {
+    background-color: #683ab7d3;
+    height: 100%;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid #FFC847;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.btn {
+    font-weight: 500 !important;
+}
