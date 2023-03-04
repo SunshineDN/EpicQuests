@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
+import { LoginService } from 'src/app/login.service';
 
 @Component({
   selector: 'app-menu-produto',
@@ -7,4 +9,12 @@ import { Component } from '@angular/core';
 })
 export class MenuProdutoComponent {
 
+
+  constructor(private _router: Router, private _loginService: LoginService){};
+
+  logout(){
+    localStorage.clear();
+    this._loginService.setMotraMenu(true);
+    this._router.navigate(['/login']);
+  }
 }
