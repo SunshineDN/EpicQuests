@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "The Witcher 3: Wild Hunt",
+      "descricao": "'The Witcher 3: Wild Hunt' é um jogo de RPG de ação e aventura em mundo aberto, onde os jogadores assumem o papel do protagonista Geralt de Rivia, um caçador de monstros com habilidades sobrenaturais. O jogo apresenta uma narrativa complexa, escolhas morais que afetam o enredo e combates desafiadores, além de gráficos de alta qualidade e uma trilha sonora impressionante.",
+      "foto": "cover_the_witcher_iii.webp",
+      "preco": 70
+    },
+    {
+      "id": 2,
+      "produto": "Diablo III",
+      "descricao": "'Diablo III' é um jogo de RPG de ação onde os jogadores escolhem uma classe de personagem e lutam contra hordas de demônios em ambientes escuros e sinistros. O jogo apresenta um sistema de progressão de personagens baseado em níveis e equipamentos, bem como um sistema de habilidades que permite aos jogadores personalizar seus personagens de acordo com seu estilo de jogo.",
+      "foto": "cover_diablo_iii.webp",
+      "preco": 90
+    },
+    {
+      "id": 3,
+      "produto": "Dark Souls Remastered",
+      "descricao": "'Dark Souls Remastered' é um jogo de RPG de ação lançado em 2018 pela desenvolvedora japonesa FromSoftware. O jogo apresenta um mundo de fantasia sombrio e desafiador, onde os jogadores enfrentam inimigos mortais e chefes épicos em batalhas táticas. O jogo possui um sistema de progressão de personagens complexo e um modo multijogador online para cooperação e invasões PvP.",
+      "foto": "cover_dark_souls_remaster.jpg",
+      "preco": 130
+    },
+    {
+      "id": 4,
+      "produto": "God of War Ragnarök",
+      "descricao": "God of War Ragnarök é um jogo de RPG de ação e aventura que será lançado em breve pela Santa Monica Studio para PlayStation 5. Continuando a história do jogo anterior, os jogadores controlarão Kratos e seu filho Atreus em uma jornada pelos reinos nórdicos, enfrentando criaturas míticas e divindades poderosas. O jogo promete gráficos impressionantes, uma história emocionante e combates intensos.",
+      "foto": "cover_god_of_war_ragnarok.webp",
+      "preco": 231
+    }
+  ]
+}
